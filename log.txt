@@ -1,0 +1,30 @@
+Game server started
+New client connected
+New client connected
+Game numbered 0 started
+Player 1 will make a move now
+The current state of the game numbered 0 is
+ | | 
+-----
+ | | 
+-----
+ | | 
+New client connected
+New client connected
+Game numbered 1 started
+Player 3 will make a move now
+The current state of the game numbered 1 is
+ | | 
+-----
+ | | 
+-----
+ | | 
+Player 2 will make a move now
+The current state of the game numbered 0 is
+X| | 
+-----
+ | | 
+-----
+ | | 
+Game 1 closed because client took too long to respond
+Game 0 closed because client took too long to respond

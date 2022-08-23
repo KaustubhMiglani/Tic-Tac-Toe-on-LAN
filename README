@@ -1,0 +1,8 @@
+For Q1 :-
+use command g++ client.cpp to compile client 
+and use command g++ -pthread Server.cpp -o server.out to create executable server.out 
+For the executable of client give the IP address of server as second parameter when executing
+log.txt is the log file (It flushes only when the server terminates. So make sure to do that)
+
+For Q2 :-
+Use g++ ping.cpp to compile ping.cpp and then sudo ./a.out followed by IP address to run the executable ./a.out formed by ping.cpp
